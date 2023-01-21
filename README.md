@@ -8,9 +8,9 @@
 
 ##  About me
 
-💻 &nbsp;Desenvolvedor Web Full Stack
+💻 &nbsp;Front End Developer 
 
-🧑🏻‍💻 &nbsp;Técnico em Informatica, IFRN.
+🧑🏻‍💻 &nbsp;Cursando 4° ano do Curso Técnico em Informatica, IFRN.
 
 <!-- 🆙 &nbsp;Curso -->
 <!--##  Experiência Profissional
