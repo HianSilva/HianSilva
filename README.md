@@ -8,7 +8,7 @@
 
 ##  About me
 
-💻 &nbsp;Front End Developer 
+💻 &nbsp;Web Developer 
 
 🧑🏻‍💻 &nbsp;Cursando 4° ano do Curso Técnico em Informatica, IFRN.
 
