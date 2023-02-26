@@ -8,9 +8,9 @@
 
 ##  About me
 
-💻 &nbsp;Web Developer 
+💻 &nbsp;Web developer 
 
-🧑🏻‍💻 &nbsp;Cursando 4° ano do Curso Técnico em Informatica, IFRN.
+🧑🏻‍💻 &nbsp;Técnico em informatica, formado no IFRN.
 
 <!-- 🆙 &nbsp;Curso -->
 <!--##  Experiência Profissional
@@ -43,7 +43,7 @@
 
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-###  :computer: Front-End Development
+###  :computer: Front-End development
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,7 +56,7 @@
 
 ![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-###  :computer: Back-End Development
+###  :computer: Back-End development
 
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
