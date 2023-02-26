@@ -10,7 +10,7 @@
 
 💻 &nbsp;Web developer 
 
-🧑🏻‍💻 &nbsp;Técnico em informatica, formado no IFRN.
+🧑🏻‍💻 &nbsp;Técnico de informatica, formado no IFRN.
 
 <!-- 🆙 &nbsp;Curso -->
 <!--##  Experiência Profissional
